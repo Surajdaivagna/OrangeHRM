@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fUkcp-St402ECzY76833Hw" Reference="iiTiHub010y1HdxIfj_8tg/srh3zuKApkC5wGsBsQUkkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" CvElementArea="500, 914, 168, 51" CvTextArea="553, 928, 66, 19" CvTextArgument="+ Add" CvType="Button" DesignTimeRectangle="505, 917, 163, 46" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'Add'" FullSelectorArgument="&lt;webctrl aaname=' Add ' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Add ' tag='BUTTON' type='button' class='oxd-button oxd-button--medium oxd-button--secondary' check:innerText='Add' /&gt;" Guid="1d6b4c1e-83aa-49f3-b4a1-246cee275623" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="4" Y="-2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="df45af669c1395c413b8a372a5416687.png" xmlns="">0nIewC2-dr0qXX1D6A43QJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KxTRfFC1aky5SV2gQzc1Yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser" CvElementArea="1167, 759, 622, 73" CvType="InputBox" DesignTimeRectangle="1173, 762, 614, 68" DesignTimeScaleFactor="1.5" ElementType="InputBoxPassword" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl idx='2' tag='INPUT' type='password' /&gt;" FuzzySelectorArgument="&lt;webctrl class='oxd-input oxd-input--active' tag='INPUT' type='password' aaname='' /&gt;" Guid="bb45ee1f-f5ea-48d7-9e99-7dcd6a972b95" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="1170, 730, 160, 18" CvTextArgument="Confirm Password*" CvType="Text" DesignTimeRectangle="1173, 729, 159, 24" ElementType="Text" FriendlyName="'Confirm Password'" FullSelectorArgument="&lt;webctrl aaname='Confirm Password' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Confirm Password' tag='LABEL' type='' class='oxd-label oxd-input-field-required' check:innerText='Confirm Password' /&gt;" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4627162fa07fa2718e52285c7e9658de.png" xmlns="">0r0D6F7Ej8kyNqgNKD4Cv1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pszVYiKWqEO_P_z_w_6ihg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" CvTextArea="1024, 625, 110, 22" CvTextArgument="Yes, Delete" CvType="Text" DesignTimeRectangle="954, 614, 227, 46" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'Yes, Delete'" FullSelectorArgument="&lt;webctrl aaname=' Yes, Delete ' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Yes, Delete ' tag='BUTTON' type='button' class='oxd-button oxd-button--medium oxd-button--label-danger orangehrm-button-margin' check:innerText='Yes, Delete' /&gt;" Guid="ba67cadb-5f5c-4dd0-8549-1bbceab6570b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80a687302e2ded1bddffc8b720ffb6cf.png" xmlns="">0gUA_NJi5KkW4r4f_PQJtOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

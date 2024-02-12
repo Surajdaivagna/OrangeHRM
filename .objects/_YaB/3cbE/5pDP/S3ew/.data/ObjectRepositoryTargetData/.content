@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Cth5fxA6_0m7KzEZoYjRZA" Reference="iiTiHub010y1HdxIfj_8tg/S3ewqbX0vkauA3FqaglpXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" DesignTimeRectangle="1077, 566, 53, 53" DesignTimeScaleFactor="1.5" FriendlyName="'I'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;i' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='oxd-icon bi-caret-down-fill oxd-select-text--arrow' aaname='' /&gt;" Guid="a5cf553d-22aa-40b0-960b-41395bcfd866" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="838, 528, 81, 16" CvTextArgument="User Role" CvType="Text" DesignTimeRectangle="840, 525, 79, 24" ElementType="Text" FriendlyName="'User Role'" FullSelectorArgument="&lt;webctrl aaname='User Role' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='User Role' tag='LABEL' type='' class='oxd-label' check:innerText='User Role' /&gt;" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ba9f6535a29027b82466300e9d0af492.png" xmlns="">0H4um1EavQkyp5Hm4U-bRFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

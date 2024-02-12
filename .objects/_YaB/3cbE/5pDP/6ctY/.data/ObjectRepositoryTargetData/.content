@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2u7Sdq-sg0KJ2KPHr3dGkA" Reference="iiTiHub010y1HdxIfj_8tg/6ctYWD-n1kKMjg4U94TCXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" CvTextArea="559, 792, 75, 22" CvTextArgument="Suraj001" CvType="Text" DesignTimeRectangle="562, 791, 239, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Suraj001'" FullSelectorArgument="&lt;webctrl aaname='Suraj001' parentid='app' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Suraj001' parentid='app' tag='DIV' type='' class='' check:innerText='Suraj001' /&gt;" Guid="1565a5b9-12c2-4758-8604-a2795b950e71" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="504, 649, 186, 27" CvTextArgument="(1) Record Found" CvType="Text" DesignTimeRectangle="467, 607, 1375, 108" FriendlyName="'(1) Record Found'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='3' parentid='app' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='orangehrm-horizontal-padding orangehrm-vertical-padding' parentid='app' tag='DIV' aaname='' check:innerText='(1) Record Found' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c745c04a4021e14f20729fcf034470d9.png" xmlns="">0WZsXShOSj060T3TSWSnLlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

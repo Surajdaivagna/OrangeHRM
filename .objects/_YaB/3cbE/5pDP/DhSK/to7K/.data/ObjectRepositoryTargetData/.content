@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lYtJna8rBUee1ZRj7HC72Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/saveSystemUser/55" CvElementArea="504, 769, 633, 72" CvType="InputBox" DesignTimeRectangle="509, 792, 569, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'-- Select --'" FullSelectorArgument="&lt;webctrl aaname='-- Select --' class='oxd-select-text-input' parentid='app' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='-- Select --' class='oxd-select-text-input' parentid='app' tag='DIV' type='' check:innerText='-- Select --' /&gt;" Guid="277fecc7-f296-42f8-b4b4-e3d582435dd5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="505, 741, 63, 18" CvTextArgument="Status*" CvType="Text" DesignTimeRectangle="508, 739, 61, 24" ElementType="Text" FriendlyName="'Status'" FullSelectorArgument="&lt;webctrl aaname='Status' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Status' tag='LABEL' type='' class='oxd-label oxd-input-field-required' check:innerText='Status' /&gt;" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c00f383dddeb06a8ecbe3d2fb430d67d.png" xmlns="">0uwwMIVmynEikvQqhBF7NkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

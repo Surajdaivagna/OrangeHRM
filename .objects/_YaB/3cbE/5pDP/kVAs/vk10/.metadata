@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Button_CrossMark",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "vk10cATHHkS_MwCfPyIBJQ",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/vk10cATHHkS_MwCfPyIBJQ",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/kVAsFtQwv0uoqhV26tVYKw",
+  "Created": "2024-02-02T05:39:03.1724537Z",
+  "Updated": "2024-02-02T05:39:36.8323027Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

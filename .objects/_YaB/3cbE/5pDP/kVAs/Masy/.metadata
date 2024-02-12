@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Button_Yes_Delete",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "MasyMuGpXUOA1rOq9fSamw",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/MasyMuGpXUOA1rOq9fSamw",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/kVAsFtQwv0uoqhV26tVYKw",
+  "Created": "2024-02-02T05:37:40.0544364Z",
+  "Updated": "2024-02-02T05:37:40.0544364Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

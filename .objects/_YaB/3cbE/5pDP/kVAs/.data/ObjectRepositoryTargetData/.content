@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="md2FKUp25Ui5ZjRkapkPDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" DesignTimeRectangle="1590, 880, 27, 32" DesignTimeScaleFactor="1.5" FriendlyName="'I'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;i' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='oxd-icon bi-trash' aaname='' /&gt;" Guid="015d1c0e-1d3d-4de4-886c-5bb56b78fa7b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="1572, 831, 67, 18" CvTextArgument="Actions" CvType="Text" DesignTimeRectangle="1569, 821, 254, 39" ElementType="Text" FriendlyName="'Actions'" FullSelectorArgument="&lt;webctrl aaname='Actions' aria-role='columnheader' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Actions' aria-role='columnheader' tag='DIV' type='' class='oxd-table-header-cell oxd-padding-cell oxd-table-th' check:innerText='Actions' /&gt;" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e76405040554a57117387703fc5b59d0.png" xmlns="">0CWQMgwPMOEa3HBJ3VTb_eA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

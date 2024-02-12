@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Button_EditConfirmPassword",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "e1zIkYs1Pkee3Tr30wIBwg",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/e1zIkYs1Pkee3Tr30wIBwg",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/DhSKq8DTp0maULfSKA5VzA",
+  "Created": "2024-02-02T07:10:00.499655Z",
+  "Updated": "2024-02-02T07:10:49.9799268Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

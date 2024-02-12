@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d6cKVz2eP0OVN2BAU2nzsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" CvTextArea="1284, 432, 16, 15" CvTextArgument="X" CvType="Text" DesignTimeRectangle="1275, 422, 38, 38" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'×'" FullSelectorArgument="&lt;webctrl aaname='×' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='×' tag='BUTTON' type='' class='oxd-dialog-close-button oxd-dialog-close-button-position' check:innerText='×' /&gt;" Guid="153494e6-4065-442c-aea9-15c357b036b0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e28cc54be81b10d248b0a6af54757670.png" xmlns="">09ulXQ_LRgEeIOpJLMYdR_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

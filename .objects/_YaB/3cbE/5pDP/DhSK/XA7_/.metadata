@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Button_ChangePassword",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "XA7_5JXQUU2CyntJrrXJ-Q",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/XA7_5JXQUU2CyntJrrXJ-Q",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/DhSKq8DTp0maULfSKA5VzA",
+  "Created": "2024-02-02T07:06:09.0933341Z",
+  "Updated": "2024-02-02T07:07:10.4671019Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

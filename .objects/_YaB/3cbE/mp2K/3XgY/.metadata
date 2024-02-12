@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Dropdown_UserRole",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "3XgYP1VpCEuSE2FEOYzpSw",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/3XgYP1VpCEuSE2FEOYzpSw",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/mp2K1XCBX0-yD2UX5MsyIQ",
+  "Created": "2024-02-01T05:19:53.8848947Z",
+  "Updated": "2024-02-02T08:09:14.3462213Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

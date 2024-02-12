@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JY8pxG_kvUyAOZz2rk27vQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers" DesignTimeRectangle="1651, 880, 27, 32" DesignTimeScaleFactor="1.5" FriendlyName="'I'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;i' idx='2' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='oxd-icon bi-pencil-fill' tag='I' aaname='' /&gt;" Guid="adf3da98-a0c2-448c-a832-4effcc9859f7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='OrangeHRM' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="1572, 831, 67, 18" CvTextArgument="Actions" CvType="Text" DesignTimeRectangle="1569, 821, 254, 39" ElementType="Text" FriendlyName="'Actions'" FullSelectorArgument="&lt;webctrl aaname='Actions' aria-role='columnheader' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Actions' aria-role='columnheader' tag='DIV' type='' class='oxd-table-header-cell oxd-padding-cell oxd-table-th' check:innerText='Actions' /&gt;" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ade09d40ce3c0b431b0cf4b2b321763.png" xmlns="">0iuEes-WV8EiM-OomRcnloA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

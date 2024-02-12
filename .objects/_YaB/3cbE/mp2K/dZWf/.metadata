@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Dropdown_Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "dZWfOIwdeUSxcQb8JfvZ1A",
+  "Reference": "iiTiHub010y1HdxIfj_8tg/dZWfOIwdeUSxcQb8JfvZ1A",
+  "ParentRef": "iiTiHub010y1HdxIfj_8tg/mp2K1XCBX0-yD2UX5MsyIQ",
+  "Created": "2024-02-01T05:21:54.515726Z",
+  "Updated": "2024-02-02T12:15:48.0781017Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
